@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/geraldooi/try-github-action/compare/v1.1.1...v1.1.2) (2024-08-15)
+
+
+### Bug Fixes
+
+* **action:** Change connection url from smtp to smtp+starttls ([f538b58](https://github.com/geraldooi/try-github-action/commit/f538b5834a5e8c42e63a0b69a395ccfa774c1b05))
+
 ## [1.1.1](https://github.com/geraldooi/try-github-action/compare/v1.1.0...v1.1.1) (2024-08-15)
 
 
