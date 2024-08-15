@@ -43,9 +43,7 @@ jobs:
                 # Required sender full name (address can be skipped):
                 from: Github Action Bot # <user@example.com>
                 # Optional plain body:
-                body: |
-                    Build job of ${{github.repository}} completed successfully!
-
+                html_body: |
                     ${{ github.event.release.body }}
                 
                 # Optional unsigned/invalid certificates allowance:
@@ -55,6 +53,6 @@ jobs:
                 # Optional priority: 'high', 'normal' (default) or 'low'
                 priority: low
                 # Optional nodemailerlog: true/false
-                nodemailerlog: false
+                nodemailerlog: true
                 # Optional nodemailerdebug: true/false if true lognodem will also be set true
-                nodemailerdebug: false
+                nodemailerdebug: true
