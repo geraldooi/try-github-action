@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/geraldooi/try-github-action/compare/v1.1.0...v1.1.1) (2024-08-15)
+
+
+### Bug Fixes
+
+* **action:** Change body to html_body and enable nodemailerlog ([4161bf8](https://github.com/geraldooi/try-github-action/commit/4161bf84494ecee640ec89e4b5be97994c4df315))
+
 ## [1.1.0](https://github.com/geraldooi/try-github-action/compare/v1.0.0...v1.1.0) (2024-08-15)
 
 
