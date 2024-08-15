@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.0](https://github.com/geraldooi/try-github-action/compare/v1.0.0...v1.1.0) (2024-08-15)
+
+
+### Features
+
+* **action:** Add release notification github action ([8b8dc11](https://github.com/geraldooi/try-github-action/commit/8b8dc11f214ffabe901010e1ac2011f9951e8442))
+* **dashboard:** add new dashboard ([85ce769](https://github.com/geraldooi/try-github-action/commit/85ce769a008f6625780084c02d6d6a2ef2342c09))
+
+
+### Bug Fixes
+
+* **auth:** change button to blue ([7f58dcd](https://github.com/geraldooi/try-github-action/commit/7f58dcd77fce43a3ab541090471989717b29e34f))
+* **auth:** change color of auth ([4218239](https://github.com/geraldooi/try-github-action/commit/42182399674a7ec71f9cf051a4307107271aac18))
+* fixing feature 1 ([a812c16](https://github.com/geraldooi/try-github-action/commit/a812c16a19519022db94e978bf4134f59f129c0a))
+
 ## 1.0.0 (2024-08-15)
 
 
