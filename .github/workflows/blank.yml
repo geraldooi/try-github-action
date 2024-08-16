@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+      
+      # Commitlint
+      - name: Run commitlint
+        uses: opensource-nepal/commitlint@v1
