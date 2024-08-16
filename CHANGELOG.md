@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/geraldooi/try-github-action/compare/v1.1.2...v1.1.3) (2024-08-16)
+
+
+### Bug Fixes
+
+* fix nav link not center ([322b181](https://github.com/geraldooi/try-github-action/commit/322b181a7c5ab811658446b71679402c3650205e))
+
 ## [1.1.2](https://github.com/geraldooi/try-github-action/compare/v1.1.1...v1.1.2) (2024-08-15)
 
 
